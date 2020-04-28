@@ -1,0 +1,23 @@
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    margin: 20px;
+    border: 1px black solid;
+    list-style: none;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+li:hover{
+    background-color: black;
+    color: white;
+}
+
+
+nav{
+    background-color: cadetblue;
+}
